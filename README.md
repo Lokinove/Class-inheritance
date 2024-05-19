@@ -1,0 +1,1 @@
+2024 Coding Lab lesson: In Python, classes are a way to group data and functions that logically belong together. Inheritance is a feature in Python that lets you create a new class by extending an existing class. This means the new class inherits all the attributes and methods of the original class but can also have additional features or override some existing methods. 
